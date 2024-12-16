@@ -19,15 +19,15 @@
     <tr>
         <td rowspan="2">KNN</td>
         <td>классификация</td>
-        <td>//TODO</td>
-        <td>//TODO</td>
-        <td>//TODO</td>
+        <td>0.75</td>
+        <td>0.753</td>
+        <td>0.75</td>
     </tr>
     <tr>
         <td>регрессия</td>
-        <td>//TODO</td>
-        <td>//TODO</td>
-        <td>//TODO</td>
+        <td>1534083.9793281653</td>
+        <td>1529077.519379845</td>
+        <td>1534083.9793281653</td>
     </tr>
     <tr>
         <td rowspan="2">Линейные модели</td>
